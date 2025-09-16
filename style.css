@@ -1,0 +1,16 @@
+body {
+    /*
+    background-color:rgb(0, 255, 47)
+    */
+    background-image: url(../meu_site/src/goat.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;     
+    background-position: center;
+}
+
+h1 {
+    color: #9C21FC;
+}
+p {
+    color:white
+}
